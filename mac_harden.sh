@@ -1,7 +1,5 @@
 ##!/bin/bash
 
-## Harden Macbook Air By Taylor Christian Newsome
-
 ## Enable FileVault (Full Disk Encryption)
 sudo fdesetup enable
 
