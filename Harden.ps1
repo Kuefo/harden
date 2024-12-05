@@ -1,5 +1,4 @@
 :: Windows 10 Hardening Script
-:: By Taylor Christian Newsome
 ::#######################################################################
 ::
 :: Change file associations to protect against common ransomware attacks
